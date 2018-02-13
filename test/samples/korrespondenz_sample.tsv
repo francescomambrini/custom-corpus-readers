@@ -1,0 +1,277 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Tex|LayoutElement
+#T_SP=webanno.custom.LetterEntity|entity_id|value
+
+
+#Text=(Braun an Gerhard Dresden, 30.
+1-1	0-1	(	HEAD[1]	_	_	
+1-2	1-6	Braun	HEAD[1]	*	per-author	
+1-3	7-9	an	HEAD[1]	_	_	
+1-4	10-17	Gerhard	HEAD[1]	*	per-addressee	
+1-5	18-25	Dresden	HEAD[1]	*	place-from	
+1-6	25-26	,	HEAD[1]	_	_	
+1-7	27-29	30	HEAD[1]	*[4]	letter-date[4]	
+1-8	29-30	.	HEAD[1]	*[4]	letter-date[4]	
+
+#Text=Oktober 1832 - 2 - zuzuwenden, wie Sie es in M\u00FCnchen thaten.
+2-1	31-38	Oktober	HEAD[1]	*[4]	letter-date[4]	
+2-2	39-43	1832	HEAD[1]	*[4]	letter-date[4]	
+2-3	44-45	-	HEAD[1]	_	_	
+2-4	46-47	2	HEAD[1]	_	_	
+2-5	48-49	-	HEAD[1]	_	_	
+2-6	50-60	zuzuwenden	_	_	_	
+2-7	60-61	,	_	_	_	
+2-8	62-65	wie	_	_	_	
+2-9	66-69	Sie	_	_	_	
+2-10	70-72	es	_	_	_	
+2-11	73-75	in	_	_	_	
+2-12	76-83	München	_	2047696	place-mentioned	
+2-13	84-90	thaten	_	_	_	
+2-14	90-91	.	_	_	_	
+
+#Text=Vielleicht lerne ich dereinst noch so viel, da\u00DF ich th\u00E4tig dankbar vor Ihnen erscheinen kann.
+3-1	92-102	Vielleicht	_	_	_	
+3-2	103-108	lerne	_	_	_	
+3-3	109-112	ich	_	_	_	
+3-4	113-121	dereinst	_	_	_	
+3-5	122-126	noch	_	_	_	
+3-6	127-129	so	_	_	_	
+3-7	130-134	viel	_	_	_	
+3-8	134-135	,	_	_	_	
+3-9	136-139	daß	_	_	_	
+3-10	140-143	ich	_	_	_	
+3-11	144-150	thätig	_	_	_	
+3-12	151-158	dankbar	_	_	_	
+3-13	159-162	vor	_	_	_	
+3-14	163-168	Ihnen	_	_	_	
+3-15	169-179	erscheinen	_	_	_	
+3-16	180-184	kann	_	_	_	
+3-17	184-185	.	_	_	_	
+
+#Text=Vorl\u00E4ufig bitte ich Sie mir die Fragen zu beantworten, wie lange sich Ihr Aufenthalt in Berlin ausdehnen lassen wird?
+4-1	186-195	Vorläufig	_	_	_	
+4-2	196-201	bitte	_	_	_	
+4-3	202-205	ich	_	_	_	
+4-4	206-209	Sie	_	_	_	
+4-5	210-213	mir	_	_	_	
+4-6	214-217	die	_	_	_	
+4-7	218-224	Fragen	_	_	_	
+4-8	225-227	zu	_	_	_	
+4-9	228-239	beantworten	_	_	_	
+4-10	239-240	,	_	_	_	
+4-11	241-244	wie	_	_	_	
+4-12	245-250	lange	_	_	_	
+4-13	251-255	sich	_	_	_	
+4-14	256-259	Ihr	_	_	_	
+4-15	260-270	Aufenthalt	_	_	_	
+4-16	271-273	in	_	_	_	
+4-17	274-280	Berlin	_	2282601	place-mentioned	
+4-18	281-290	ausdehnen	_	_	_	
+4-19	291-297	lassen	_	_	_	
+4-20	298-302	wird	_	_	_	
+4-21	302-303	?	_	_	_	
+
+#Text=Ob ich in vier Wochen genug Zeit habe Ihren mir so vortheilhaften bekannten arch\u00E4ologischen Apparat mit Nutzen kennen zu lernen?
+5-1	304-306	Ob	_	_	_	
+5-2	307-310	ich	_	_	_	
+5-3	311-313	in	_	_	_	
+5-4	314-318	vier	_	_	_	
+5-5	319-325	Wochen	_	_	_	
+5-6	326-331	genug	_	_	_	
+5-7	332-336	Zeit	_	_	_	
+5-8	337-341	habe	_	_	_	
+5-9	342-347	Ihren	_	_	_	
+5-10	348-351	mir	_	_	_	
+5-11	352-354	so	_	_	_	
+5-12	355-369	vortheilhaften	_	_	_	
+5-13	370-379	bekannten	_	_	_	
+5-14	380-395	archäologischen	_	_	_	
+5-15	396-403	Apparat	_	_	_	
+5-16	404-407	mit	_	_	_	
+5-17	408-414	Nutzen	_	_	_	
+5-18	415-421	kennen	_	_	_	
+5-19	422-424	zu	_	_	_	
+5-20	425-431	lernen	_	_	_	
+5-21	431-432	?	_	_	_	
+
+#Text=Und dann zuletzt und ganz beil\u00E4ufig, was denn die dahige Universit\u00E4t f\u00FCr Bedingungen zur Habilitation stellt?
+6-1	433-436	Und	_	_	_	
+6-2	437-441	dann	_	_	_	
+6-3	442-449	zuletzt	_	_	_	
+6-4	450-453	und	_	_	_	
+6-5	454-458	ganz	_	_	_	
+6-6	459-468	beiläufig	_	_	_	
+6-7	468-469	,	_	_	_	
+6-8	470-473	was	_	_	_	
+6-9	474-478	denn	_	_	_	
+6-10	479-482	die	_	_	_	
+6-11	483-489	dahige	_	_	_	
+6-12	490-501	Universität	_	1016783-3	org-mentioned	
+6-13	502-505	für	_	_	_	
+6-14	506-517	Bedingungen	_	_	_	
+6-15	518-521	zur	_	_	_	
+6-16	522-534	Habilitation	_	_	_	
+6-17	535-541	stellt	_	_	_	
+6-18	541-542	?	_	_	_	
+
+#Text=Alles Uebrige \u00FCberlasse ich Ihrem Wohlwollen und nehme alles, was die Gunst des Gl\u00FCckes mir zuwenden m\u00F6chte, f\u00FCr ein \u00FCberraschendes Geschenk, das ich aus keiner Hand lieber empfangen m\u00F6chte als aus der Ihren.
+7-1	543-548	Alles	_	_	_	
+7-2	549-556	Uebrige	_	_	_	
+7-3	557-566	überlasse	_	_	_	
+7-4	567-570	ich	_	_	_	
+7-5	571-576	Ihrem	_	_	_	
+7-6	577-587	Wohlwollen	_	_	_	
+7-7	588-591	und	_	_	_	
+7-8	592-597	nehme	_	_	_	
+7-9	598-603	alles	_	_	_	
+7-10	603-604	,	_	_	_	
+7-11	605-608	was	_	_	_	
+7-12	609-612	die	_	_	_	
+7-13	613-618	Gunst	_	_	_	
+7-14	619-622	des	_	_	_	
+7-15	623-630	Glückes	_	_	_	
+7-16	631-634	mir	_	_	_	
+7-17	635-643	zuwenden	_	_	_	
+7-18	644-650	möchte	_	_	_	
+7-19	650-651	,	_	_	_	
+7-20	652-655	für	_	_	_	
+7-21	656-659	ein	_	_	_	
+7-22	660-674	überraschendes	_	_	_	
+7-23	675-683	Geschenk	_	_	_	
+7-24	683-684	,	_	_	_	
+7-25	685-688	das	_	_	_	
+7-26	689-692	ich	_	_	_	
+7-27	693-696	aus	_	_	_	
+7-28	697-703	keiner	_	_	_	
+7-29	704-708	Hand	_	_	_	
+7-30	709-715	lieber	_	_	_	
+7-31	716-725	empfangen	_	_	_	
+7-32	726-732	möchte	_	_	_	
+7-33	733-736	als	_	_	_	
+7-34	737-740	aus	_	_	_	
+7-35	741-744	der	_	_	_	
+7-36	745-750	Ihren	_	_	_	
+7-37	750-751	.	_	_	_	
+
+#Text=Beikommender Brief und Aufsatz ist mir von Hr.
+8-1	752-764	Beikommender	_	_	_	
+8-2	765-770	Brief	_	_	_	
+8-3	771-774	und	_	_	_	
+8-4	775-782	Aufsatz	_	_	_	
+8-5	783-786	ist	_	_	_	
+8-6	787-790	mir	_	_	_	
+8-7	791-794	von	_	_	_	
+8-8	795-797	Hr	_	_	_	
+8-9	797-798	.	_	_	_	
+
+#Text=Secret\u00E4r Rathgeber aus Gotha zur Besorgung \u00FCbergeben worden.
+9-1	799-807	Secretär	_	_	_	
+9-2	808-817	Rathgeber	_	*	per-mentioned	
+9-3	818-821	aus	_	_	_	
+9-4	822-827	Gotha	_	2053014	place-mentioned	
+9-5	828-831	zur	_	_	_	
+9-6	832-841	Besorgung	_	_	_	
+9-7	842-851	übergeben	_	_	_	
+9-8	852-858	worden	_	_	_	
+9-9	858-859	.	_	_	_	
+
+#Text=Empfehlen kann ich ihn Ihnen nicht, weil ych es bin.
+10-1	860-869	Empfehlen	_	_	_	
+10-2	870-874	kann	_	_	_	
+10-3	875-878	ich	_	_	_	
+10-4	879-882	ihn	_	_	_	
+10-5	883-888	Ihnen	_	_	_	
+10-6	889-894	nicht	_	_	_	
+10-7	894-895	,	_	_	_	
+10-8	896-900	weil	_	_	_	
+10-9	901-904	ych	_	_	_	
+10-10	905-907	es	_	_	_	
+10-11	908-911	bin	_	_	_	
+10-12	911-912	.	_	_	_	
+
+#Text=Im Uebrigen habe ich Ihn als einen flei\u00DFigen besonnenen und unverdrossenen Forscher kennen gelernt und als einen Mann, an dem die wissenschaftlichenen Bestrebungen der neueren Zeit nicht unbeachtet vor\u00FCber gegangen sind.
+11-1	913-915	Im	_	_	_	
+11-2	916-924	Uebrigen	_	_	_	
+11-3	925-929	habe	_	_	_	
+11-4	930-933	ich	_	_	_	
+11-5	934-937	Ihn	_	_	_	
+11-6	938-941	als	_	_	_	
+11-7	942-947	einen	_	_	_	
+11-8	948-957	fleißigen	_	_	_	
+11-9	958-968	besonnenen	_	_	_	
+11-10	969-972	und	_	_	_	
+11-11	973-987	unverdrossenen	_	_	_	
+11-12	988-996	Forscher	_	_	_	
+11-13	997-1003	kennen	_	_	_	
+11-14	1004-1011	gelernt	_	_	_	
+11-15	1012-1015	und	_	_	_	
+11-16	1016-1019	als	_	_	_	
+11-17	1020-1025	einen	_	_	_	
+11-18	1026-1030	Mann	_	_	_	
+11-19	1030-1031	,	_	_	_	
+11-20	1032-1034	an	_	_	_	
+11-21	1035-1038	dem	_	_	_	
+11-22	1039-1042	die	_	_	_	
+11-23	1043-1063	wissenschaftlichenen	_	_	_	
+11-24	1064-1076	Bestrebungen	_	_	_	
+11-25	1077-1080	der	_	_	_	
+11-26	1081-1088	neueren	_	_	_	
+11-27	1089-1093	Zeit	_	_	_	
+11-28	1094-1099	nicht	_	_	_	
+11-29	1100-1110	unbeachtet	_	_	_	
+11-30	1111-1118	vorüber	_	_	_	
+11-31	1119-1127	gegangen	_	_	_	
+11-32	1128-1132	sind	_	_	_	
+11-33	1132-1133	.	_	_	_	
+
+#Text=Er w\u00FCnscht es sehr Mitglied Ihres Institutes zu werden und sich recht bald so nenen zu d\u00FCrfen.
+#Text=- Seine Paquette m\u00FCssten von mir, sowie das von B\u00F6ttiger entsiegelt werden, um den Fuhrmann nicht in Verlegenheit zu bringen.
+12-1	1134-1136	Er	_	_	_	
+12-2	1137-1144	wünscht	_	_	_	
+12-3	1145-1147	es	_	_	_	
+12-4	1148-1152	sehr	_	_	_	
+12-5	1153-1161	Mitglied	_	_	_	
+12-6	1162-1167	Ihres	_	_	_	
+12-7	1168-1178	Institutes	_	35363-2	org-mentioned	
+12-8	1179-1181	zu	_	_	_	
+12-9	1182-1188	werden	_	_	_	
+12-10	1189-1192	und	_	_	_	
+12-11	1193-1197	sich	_	_	_	
+12-12	1198-1203	recht	_	_	_	
+12-13	1204-1208	bald	_	_	_	
+12-14	1209-1211	so	_	_	_	
+12-15	1212-1217	nenen	_	_	_	
+12-16	1218-1220	zu	_	_	_	
+12-17	1221-1227	dürfen	_	_	_	
+12-18	1227-1228	.	_	_	_	
+12-19	1229-1230	-	_	_	_	
+12-20	1231-1236	Seine	_	_	_	
+12-21	1237-1245	Paquette	_	_	_	
+12-22	1246-1253	müssten	_	_	_	
+12-23	1254-1257	von	_	_	_	
+12-24	1258-1261	mir	_	_	_	
+12-25	1261-1262	,	_	_	_	
+12-26	1263-1268	sowie	_	_	_	
+12-27	1269-1272	das	_	_	_	
+12-28	1273-1276	von	_	_	_	
+12-29	1277-1285	Böttiger	_	118824775	per-mentioned	
+12-30	1286-1296	entsiegelt	_	_	_	
+12-31	1297-1303	werden	_	_	_	
+12-32	1303-1304	,	_	_	_	
+12-33	1305-1307	um	_	_	_	
+12-34	1308-1311	den	_	_	_	
+12-35	1312-1320	Fuhrmann	_	_	_	
+12-36	1321-1326	nicht	_	_	_	
+12-37	1327-1329	in	_	_	_	
+12-38	1330-1342	Verlegenheit	_	_	_	
+12-39	1343-1345	zu	_	_	_	
+12-40	1346-1353	bringen	_	_	_	
+12-41	1353-1354	.	_	_	_	
+
+#Text=Sie deuten es nicht \u00FCbel.
+13-1	1355-1358	Sie	_	_	_	
+13-2	1359-1365	deuten	_	_	_	
+13-3	1366-1368	es	_	_	_	
+13-4	1369-1374	nicht	_	_	_	
+13-5	1375-1379	übel	_	_	_	
+13-6	1379-1380	.	_	_	_	
